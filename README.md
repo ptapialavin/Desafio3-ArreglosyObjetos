@@ -1,5 +1,4 @@
 # Desafio4-ArreglosyObjetos
-# Desafío 4 - Inmobiliaria
 
 Proyecto realizado para **Desafío Latam**, carrera **Desarrollo Full Stack**, curso **JavaScript para la Web**, módulo **Arreglos y Objetos**.
 

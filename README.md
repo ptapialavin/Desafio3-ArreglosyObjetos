@@ -6,7 +6,7 @@ Aplicación web que renderiza de forma dinámica un listado de propiedades inmob
 
 ## 🔗 Repositorio
 
-GitHub: 
+GitHub: https://ptapialavin.github.io/Desafio4-ArreglosyObjetos/
 
 ## 📁 Estructura del proyecto
 Desafío3/

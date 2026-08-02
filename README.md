@@ -9,6 +9,7 @@ Aplicación web que renderiza de forma dinámica un listado de propiedades inmob
 GitHub: https://ptapialavin.github.io/Desafio4-ArreglosyObjetos/
 
 ## 📁 Estructura del proyecto
+
 Desafío3/
 ├── index.html # Página principal (muestra 3 propiedades destacadas de cada tipo)
 ├── propiedades_venta.html # Listado completo de propiedades en venta
@@ -29,6 +30,6 @@ Desafío3/
 
 - HTML5
 - CSS3
-- JavaScript 
-- [Bootstrap 5](https://getbootstrap.com/) 
-- [Font Awesome 6](https://fontawesome.com/) 
+- JavaScript
+- [Bootstrap 5](https://getbootstrap.com/)
+- [Font Awesome 6](https://fontawesome.com/)

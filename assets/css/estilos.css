@@ -1,5 +1,5 @@
 .main-section {
-  background-image: url('../img/img-main.jpeg');
+  background-image: url("../img/img-main.jpeg");
   background-size: cover;
   background-position: center;
   height: 300px;

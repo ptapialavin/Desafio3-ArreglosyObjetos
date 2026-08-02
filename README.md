@@ -1,4 +1,4 @@
-# Desafio4-ArreglosyObjetos
+# Desafio3-ArreglosyObjetos
 
 Proyecto realizado para **Desafío Latam**, carrera **Desarrollo Full Stack**, curso **JavaScript para la Web**, módulo **Arreglos y Objetos**.
 

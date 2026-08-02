@@ -1,4 +1,4 @@
-# Desafio3-ArreglosyObjetos
+# Desafio4-ArreglosyObjetos
 
 Proyecto realizado para **Desafío Latam**, carrera **Desarrollo Full Stack**, curso **JavaScript para la Web**, módulo **Arreglos y Objetos**.
 
@@ -6,7 +6,7 @@ Aplicación web que renderiza de forma dinámica un listado de propiedades inmob
 
 ## 🔗 Repositorio
 
-GitHub: https://ptapialavin.github.io/Desafio3-ArreglosyObjetos/
+GitHub: https://github.com/ptapialavin/Desafio4-ArreglosyObjetos/deployments/github-pages
 
 ## 📁 Estructura del proyecto
 
